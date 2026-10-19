@@ -139,6 +139,9 @@ Does what the settings window does. Add `--delete-data` only to drop settings an
 
 While a word is being typed it is underlined and shows the language Seamtype expects.
 
+Type Japanese `ん` with `nn`, `n'`, or `xn`: `sinnoosaka` → `しんおおさか` (convert for `新大阪`).
+Add another `n` for a following na-row kana: `konnnichiha` → `こんにちは`.
+
 | Key | English / Korean word | Japanese phrase |
 | --- | --- | --- |
 | letters | extend the word | extend the phrase (kana preview) |
